@@ -14,7 +14,7 @@
 
 <hr>
 
-상세한 개발 기록은 블로그 참조 :
+상세한 개발 기록은 블로그 참조 : <br>
 [[TIL] Android 자기소개 앱 구현하기 1](https://velog.io/@wiz_hey/TIL-Android-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%EC%95%B1-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-1) - 필수과제 Lv1/Lv2구현 <br>
 [[TIL] Android 자기소개 앱 구현하기 2](https://velog.io/@wiz_hey/TIL-Android-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%EC%95%B1-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-2) - 필수과제 Lv3구현 <br>
 [[TIL] Android 자기소개 앱 구현하기 3](https://velog.io/@wiz_hey/TIL-Android-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%EC%95%B1-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-3) - 선택과제 1/2구현 <br>
