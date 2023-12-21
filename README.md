@@ -13,7 +13,7 @@
 ✏2. 자기 소개 랜덤 사진 : 자기소개 페이지가 시작될 때 5장 중 랜덤으로 1장의 사진이 표시됩니다. <br>
 
 [보완사항 참조] <br>
-✏[	&#39;[TIL] Android 앱 개발 입문 : UI 클론 코딩 및 자기소개 앱에 대한 보완	&#39;에서&#32;&#39;📖Android 자기소개 앱 (MyIntroduction)&#39;부분](https://velog.io/@wiz_hey/TIL-Android-%EC%95%B1-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8-UI-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%B0%8F-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%EC%95%B1%EC%97%90-%EB%8C%80%ED%95%9C-%EB%B3%B4%EC%99%84#android-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%EC%95%B1)
+✏[	&#39;[TIL] Android 앱 개발 입문 : UI 클론 코딩 및 자기소개 앱에 대한 보완&#39;에서 &#39;📖Android 자기소개 앱 (MyIntroduction)&#39;부분](https://velog.io/@wiz_hey/TIL-Android-%EC%95%B1-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8-UI-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9-%EB%B0%8F-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%EC%95%B1%EC%97%90-%EB%8C%80%ED%95%9C-%EB%B3%B4%EC%99%84#android-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%EC%95%B1)
 
 <hr>
 
