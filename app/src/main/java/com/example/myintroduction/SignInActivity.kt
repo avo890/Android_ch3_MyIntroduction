@@ -40,10 +40,10 @@ class SignInActivity : AppCompatActivity() {
             val dt_id = et_id.text.toString()
             val dt_Password = et_password.text.toString()
 
-            if (dt_id.isEmpty() || dt_Password.isEmpty()) {
-                Toast.makeText(this, "아이디/비밀번호를 확인해주세요.", Toast.LENGTH_LONG).show()
+            if (dt_id.trim().isEmpty() || dt_Password.trim().isEmpty()) {
+                Toast.makeText(this, getString(R.string.signInActivity_Toast_fail), Toast.LENGTH_LONG).show()
             } else {
-                Toast.makeText(this, "로그인 성공!", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, getString(R.string.signInActivity_Toast_succes), Toast.LENGTH_SHORT).show()
                 val intent = Intent(this, HomeActivity::class.java)
                 intent.putExtra("dataId", dt_id)
                 startActivity(intent)

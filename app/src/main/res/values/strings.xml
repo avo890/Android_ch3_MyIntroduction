@@ -10,6 +10,19 @@
     <string name="tv_user_mbti">INFP</string>
     <string name="tv_blog">"블로그 주소 : "</string>
     <string name="tv_user_blog">https://velog.io/@wiz_hey</string>
+    <string name="tv_user_id_hint">유저아이디</string>
+    <string name="btn_close">종료</string>
+    <string name="iv_home_contentDescription">home에서 자기소개로 사용하는 이미지 입니다.</string>
+    <string name="et_id_hint">아이디를 입력하세요.</string>
+    <string name="tv_password">"비밀번호 : "</string>
+    <string name="et_password_hint">비밀번호를 입력하세요.</string>
+    <string name="btn_login">로그인</string>
+    <string name="btn_sign_up">회원가입</string>
+    <string name="et_name_hint">이름을 입력하세요.</string>
+    <string name="signInActivity_Toast_fail">아이디/비밀번호를 확인해주세요.</string>
+    <string name="signInActivity_Toast_succes">로그인 성공!</string>
+    <string name="signUpActivity_Toast_fail">입력되지 않은 정보가 있습니다.</string>
+    <string name="signUpActivity_Toast_succes">회원가입 성공!</string>
 
 
 </resources>

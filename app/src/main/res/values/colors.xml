@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="home_green">#DFEFCC</color>
+    <color name="btn_home_green">#4CAF50</color>
+    <color name="sign_in_pink">#EDDEEF</color>
+    <color name="btn_sign_up_blue">#2196F3</color>
+    <color name="sign_up_blue">#C6DDEF</color>
+    <color name="btn_pressed_red">#E80C0C</color>
 </resources>

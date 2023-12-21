@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#DFEFCC"
+    android:background="@color/home_green"
     tools:context=".HomeActivity">
 
     <LinearLayout
@@ -21,7 +21,8 @@
             android:layout_height="140dp"
             android:layout_gravity="center"
             android:layout_marginTop="50dp"
-            android:src="@drawable/profile1" />
+            android:src="@drawable/profile1"
+            android:contentDescription="@string/iv_home_contentDescription" />
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -45,7 +46,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="20sp"
                 android:textStyle="bold"
-                android:hint="유저아이디"
+                android:hint="@string/tv_user_id_hint"
                 app:layout_constraintBottom_toBottomOf="@+id/tv_id"
                 app:layout_constraintTop_toTopOf="@+id/tv_id"
                 tools:layout_editor_absoluteX="187dp" />
@@ -170,15 +171,19 @@
                 app:layout_constraintTop_toBottomOf="@+id/tv_blog" />
         </LinearLayout>
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn_close"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="40dp"
-            android:text="종료"
-            android:backgroundTint="#4CAF50"
+            android:drawableStart="@drawable/selector_button_image"
+            android:paddingStart="90dp"
+            android:text="@string/btn_close"
+            android:textColor="@drawable/selector_button_text"
+            android:background="@drawable/selector_button_background"
             tools:layout_editor_absoluteX="175dp"
-            tools:layout_editor_absoluteY="781dp" />
+            tools:layout_editor_absoluteY="781dp"
+            tools:ignore="RtlSymmetry" />
 
 
     </LinearLayout>

@@ -24,11 +24,11 @@ class SignUpActivity : AppCompatActivity() {
             val dt_id = et_id.text.toString()
             val dt_Password = et_password.text.toString()
 
-            if (dt_id.isEmpty() || dt_Password.isEmpty() || dt_name.isEmpty()) {
-                Toast.makeText(this, "입력되지 않은 정보가 있습니다..", Toast.LENGTH_LONG).show()
+            if (dt_id.trim().isEmpty() || dt_Password.trim().isEmpty() || dt_name.trim().isEmpty()) {
+                Toast.makeText(this, getString(R.string.signUpActivity_Toast_fail), Toast.LENGTH_LONG).show()
 
             } else {
-                Toast.makeText(this, "회원가입 성공!", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, getString(R.string.signUpActivity_Toast_succes), Toast.LENGTH_SHORT).show()
 
                 val intent = Intent(this, SignInActivity::class.java)
                 intent.putExtra("dataId", dt_id)
